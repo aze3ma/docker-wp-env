@@ -9,7 +9,7 @@ To get a local copy up and running follow these simple example steps.
 
 This is an dev environment based on Docker please make sure to get it from
 
-[Docker ](https://docs.docker.com/desktop/#download-and-install)
+`https://docs.docker.com/desktop/#download-and-install`
 
 ### Usage
 

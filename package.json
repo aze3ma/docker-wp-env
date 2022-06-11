@@ -1,0 +1,23 @@
+{
+  "name": "wp-env",
+  "version": "1.0.0",
+  "description": "development environment for Wordpress using docker",
+  "main": "index.js",
+  "scripts": {
+    "wp": "docker compose run --rm wp",
+    "up": "docker compose up",
+    "down": "docker compose down",
+    "build-up": "docker compose up --build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aze3ma/docker-wp-env.git"
+  },
+  "keywords": [],
+  "author": "Mahmoud Abdulazim <aze3ma@gmail.com> (https://github.com/aze3ma)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aze3ma/docker-wp-env/issues"
+  },
+  "homepage": "https://github.com/aze3ma/docker-wp-env#readme"
+}

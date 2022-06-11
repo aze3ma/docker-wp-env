@@ -13,7 +13,7 @@ This is an dev environment based on Docker please make sure to get it from
 
 you might need to add `wp-env.dev` to your `/etc/hosts` just as
 
-    ```sh
+    ```
         # Added for creatopy development
         ::1 wp-env.dev
         127.0.0.1 wp-env.dev
